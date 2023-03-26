@@ -9,4 +9,7 @@
 - How many supermarkets are within a 30 minute drive from Y location?
  - API: [HERE Isoline Routing API](https://developer.here.com/documentation/isoline-routing-api/dev_guide/index.html)
 
- 
+ ---
+
+### How to?
+1. [How to Anonymize Your Data for the Tableau Community Forums](https://datakatie.com/2022/08/26/how-to-anonymize-your-data-for-the-tableau-community-forums/)
