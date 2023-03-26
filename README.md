@@ -13,3 +13,4 @@
 
 ### How to?
 1. [How to Anonymize Your Data for the Tableau Community Forums](https://datakatie.com/2022/08/26/how-to-anonymize-your-data-for-the-tableau-community-forums/)
+2. [Frequently Asked Questions (FAQ) on Maps & Geocoding](https://community.tableau.com/s/news/a0A4T000002gyGtUAI/maps-geocoding-faq) - Background, tips, tricks, resources and inspiration by [Sarah Battersby](https://community.tableau.com/s/profile/0054T000001NkUyQAK)
